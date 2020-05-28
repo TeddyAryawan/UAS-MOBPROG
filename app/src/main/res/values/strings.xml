@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UAS_180010002_1</string>
+    <string name="id_film">ID_Film</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="tahun_terbit">Tahun Terbit</string>
+    <string name="gambar">Ilustrasi Gambar</string>
+    <string name="genre">Genre</string>
+    <string name="pemain">Pemain</string>
+    <string name="sipnosis">Sipnosis</string>
+    <string name="tambah">TAmbah Film</string>
+    <string name="edit">Edit film</string>
+    <string name="hapus">Hapus Film</string>
+    <string name="bagikan">Bagikan Film</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_film">Data Film</string>
+    <string name="pilih_tahun">Pilih</string>
+</resources>
